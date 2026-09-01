@@ -36,12 +36,14 @@
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/)
+www.linkedin.com/in/kordeaditya
+
 
 ---
 
 ```bash
 mraditya004@github ~ $ whoami
+
  █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗
 ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
 ███████║██║  ██║██║   ██║    ╚████╔╝ ███████║
