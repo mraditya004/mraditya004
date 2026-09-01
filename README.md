@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400">
 
-<h1>⚡ Aditya Korde <code>_dev</code> 💻</h1>
+<h1># 🤖 𝘼𝘿𝙄𝙏𝙔𝘼 𝙆𝙊𝙍𝘿𝙀 🧠</h1>
 
 <h3>「 currently compiling my future. 」</h3>
 
@@ -69,7 +69,7 @@ mraditya004@github ~ $ whoami
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres">
+<img src="https://skillicons.dev/icons?i=python,postgres,html,css,js">
 
 </p>
 
@@ -89,7 +89,10 @@ mraditya004@github ~ $ whoami
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,colab,vscode">
+<img src="https://skillicons.dev/icons?i=git,github,vscode">
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+
 
 </p>
 
@@ -176,17 +179,17 @@ Artificial Intel.   ████████████░░░░░░░░
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<br>
+
+<h3>⟦ THINK ⟧ ⟶ ⟦ CODE ⟧ ⟶ ⟦ CONQUER ⟧</h3>
+
 </p>
 
 ---
 
 <div align="center">
 
-```text
-"build • break • learn • repeat"
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 </div>
 
