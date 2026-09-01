@@ -2,13 +2,24 @@
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400">
 
-<h1>⚡ Aditya Korde</h1>
+<h1>⚡ Aditya Korde <code>_dev</code> 💻</h1>
 
-<h3>DATA SCIENCE • MACHINE LEARNING • AI</h3>
+<h3>「 currently compiling my future. 」</h3>
+
+<p>
+🧠 <b>DATA SCIENCE</b>
+&nbsp; • &nbsp;
+🤖 <b>MACHINE LEARNING</b>
+&nbsp; • &nbsp;
+💻 <b>PYTHON</b>
+&nbsp; • &nbsp;
+⚡ <b>AI</b>
+</p>
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING_STUFF-00F7FF?style=for-the-badge&labelColor=111111">
 
 </div>
+
 ---
 
 ## `> whoami`
@@ -58,7 +69,7 @@ mraditya004@github ~ $ whoami
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql">
+<img src="https://skillicons.dev/icons?i=python,postgres">
 
 </p>
 
@@ -78,7 +89,7 @@ mraditya004@github ~ $ whoami
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode">
+<img src="https://skillicons.dev/icons?i=git,github,colab,vscode">
 
 </p>
 
@@ -179,7 +190,6 @@ Artificial Intel.   ████████████░░░░░░░░
 
 </div>
 
-
 ---
 
 ```bash
@@ -191,3 +201,4 @@ mraditya004@github ~ $ whoami
 ██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║
 ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
 ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
+```
