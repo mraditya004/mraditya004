@@ -37,3 +37,14 @@
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/)
+
+---
+
+```bash
+mraditya004@github ~ $ whoami
+    _       _ _ _         
+   / \   __| (_) |_ _   _ 
+  / _ \ / _` | | __| | | |
+ / ___ \ (_| | | |_| |_| |
+/_/   \_\__,_|_|\__|\__, |
+                    |___/ 
